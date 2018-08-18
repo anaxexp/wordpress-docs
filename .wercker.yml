@@ -1,4 +1,4 @@
-box: anaxexp/alpine:3.7-1.2.0
+box: anaxexp/alpine:3.8-2.1.0
 
 build:
   box:
